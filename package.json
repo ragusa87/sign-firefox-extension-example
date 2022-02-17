@@ -1,0 +1,16 @@
+{
+  "name": "bitwarden-browser-sign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sign": "npm ./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "sign-addon": "^3.11.0"
+  }
+}
